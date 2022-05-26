@@ -1,4 +1,4 @@
-# My-3-Letter
+# Get-3-Letter-UPlays
 Writes all available 3 letter Uplay names to a notepad file
 
 
